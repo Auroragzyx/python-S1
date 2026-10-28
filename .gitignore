@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 打包产物
+build/
+dist/
+*.egg-info/
+
+# 数据库与导出（不要提交真实账目）
+*.db
+*.sqlite
+*.sqlite3
+data/
+out/
+export/
+*.csv
+!**/samples/*.csv
+
+# 日志与临时文件
+*.log
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+
+# 私有内容
+private/
+.env
+*.local.*
