@@ -31,7 +31,8 @@ Thumbs.db
 .DS_Store
 
 # 编辑器
-.vscode/
+.vscode/*
+!.vscode/launch.json
 .idea/
 
 # 私有内容

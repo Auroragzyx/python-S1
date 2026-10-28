@@ -4,6 +4,8 @@
 
 **毕业作品：小账本（ExpenseLite）** —— 记录收支、按月筛选、分类统计、导出 CSV，Tkinter 界面 + SQLite 存储 + PyInstaller 打包。
 
+> **从今天开始：** 打开 [PythonS1.md](PythonS1.md)，按第 1 天的清单做 3 小时。VS Code 工作区文件是 `PythonS1.code-workspace`。
+
 ## 学习进度
 
 - 当前阶段：第 1 周 · 环境与第一批程序（**未开始**）
